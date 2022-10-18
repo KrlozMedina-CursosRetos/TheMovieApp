@@ -1,0 +1,25 @@
+{
+  "name": "themoviedb",
+  "version": "1.0.0",
+  "description": "Consumo practico de API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrlozMedina/TheMovieDB.git"
+  },
+  "keywords": [
+    "API",
+    "JavaScrip",
+    "HTML",
+    "CSS"
+  ],
+  "author": "KrlozMedina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KrlozMedina/TheMovieDB/issues"
+  },
+  "homepage": "https://github.com/KrlozMedina/TheMovieDB#readme"
+}
